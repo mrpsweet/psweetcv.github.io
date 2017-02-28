@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('file:///F:/git_resume/static/image/logo.jpg');
+    background-image:url('file:///F:/git_resume/static/image/weixin.jpg');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
